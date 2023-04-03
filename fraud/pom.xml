@@ -7,9 +7,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.epam</groupId>
-    <artifactId>customer</artifactId>
+    <artifactId>fraud</artifactId>
     <packaging>jar</packaging>
-    <name>customer</name>
+    <name>fraud</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
@@ -27,6 +27,6 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>customer</finalName>
+        <finalName>fraud</finalName>
     </build>
 </project>

@@ -1,7 +1,7 @@
 package com.epam.customer.controller;
 
-import com.epam.customer.service.CustomerService;
 import com.epam.customer.dto.CustomerRegistrationDto;
+import com.epam.customer.service.CustomerService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
