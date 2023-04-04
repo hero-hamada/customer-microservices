@@ -1,6 +1,6 @@
 package com.epam.customer.dto;
 
-public record CustomerRegistrationDto(
+public record CustomerRegistrationRequest(
         String firstName,
         String lastName,
         String email) {
